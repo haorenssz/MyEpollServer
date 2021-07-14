@@ -1,0 +1,3 @@
+/AllKindOfServers/MyEpollServer/build/CMakeFiles/rebuild_cache.dir
+/AllKindOfServers/MyEpollServer/build/CMakeFiles/Server.dir
+/AllKindOfServers/MyEpollServer/build/CMakeFiles/edit_cache.dir
